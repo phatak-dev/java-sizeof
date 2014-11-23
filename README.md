@@ -1,4 +1,4 @@
-This is a memory consumption estimator for Java. This library is extracted from [Spark](https://github.com/apache/spark) project.
+This is a memory consumption estimator for Scala/Java. This library is ported from [Spark](https://github.com/apache/spark) project.
 
 ## Dependency
 
