@@ -1,5 +1,27 @@
 This is a memory consumption estimator for Java. This library is extracted from [Spark](https://github.com/apache/spark) project.
 
+## Dependency
+
+###Sbt
+
+    libraryDependencies += "com.madhu" %% "java-sizeof" % "0.1"
+
+supported for both 2.10 and 2.11.
+
+###Maven
+
+     <dependency>
+     <groupId>com.madhu</groupId>
+     <artifactId>java-sizeof_2.11</artifactId>
+     <version>0.1</version>
+     </dependency>
+
+
 ## Usage
 
-For any object, estimate object size by calling SizeEstimator.estimate(obj);
+For any object, estimate object size by calling
+
+    SizeEstimator.estimate(obj);
+
+
+For more examples look at *examples* folder.
