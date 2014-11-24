@@ -1,8 +1,9 @@
-package com.madhu.sizeof.examples
+package com.madhukaraphatak.sizeof.examples
 
 import java.util.LinkedHashMap
 
-import com.madhu.sizeof.SizeEstimator
+
+import com.madhukaraphatak.sizeof.SizeEstimator
 import org.apache.log4j.Logger
 
 /**

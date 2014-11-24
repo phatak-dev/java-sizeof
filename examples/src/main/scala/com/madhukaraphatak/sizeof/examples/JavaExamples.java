@@ -1,6 +1,6 @@
-package com.madhu.sizeof.examples;
+package com.madhukaraphatak.sizeof.examples;
 
-import com.madhu.sizeof.SizeEstimator;
+import com.madhukaraphatak.sizeof.SizeEstimator;
 import scala.Array;
 
 import java.util.ArrayList;

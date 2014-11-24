@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-package com.madhu.sizeof
+package com.madhukaraphatak.sizeof
 import org.scalatest.{BeforeAndAfterAll, FunSuite, PrivateMethodTester}
 
 class DummyClass1 {}

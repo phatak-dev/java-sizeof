@@ -1,7 +1,7 @@
 
 name := "java-sizeof"
 
-organization:="com.madhu"
+organization:="com.madhukaraphatak"
 
 version:="0.1"
 

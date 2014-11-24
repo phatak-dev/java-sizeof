@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-package com.madhu.sizeof
+package com.madhukaraphatak.sizeof
 
 import java.lang.management.ManagementFactory
 import java.lang.reflect.{Array => JArray}
